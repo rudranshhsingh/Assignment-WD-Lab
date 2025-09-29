@@ -1,1 +1,2 @@
 # Assignment-WD-Lab
+This Project of mine shows how apple's iPhone 19 launch looks like. I have added all the key features of the phone. I have added the images of the phone and also compared it with other devices/competitors in this price segment. I also have provided necessary links for all the websies like - apple's official website, apple's instagram handle and i have also provided the link to purchase the phone. 
